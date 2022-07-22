@@ -1,0 +1,13 @@
+PACOTES UTILIZADOS
+
+library(ggplot2)
+library(plyr)
+library(ROCR)
+library(caret)
+
+caso não tenha os pacotes, utilize os códigos, colando diretamente no console e rodando
+
+install.packages("ggplot2")
+install.packages("plyr")
+install.packages("ROCR")
+install.packages("caret")
